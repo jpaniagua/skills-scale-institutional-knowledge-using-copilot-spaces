@@ -90,7 +90,7 @@ UX Designers focus on user-centered design, ensuring that product interactions a
 
 ### Goals
 - Deliver intuitive, accessible user experiences
-- Reduce user friction and support pain points
+- Reduce user friction and pain points
 - Ensure consistency across the product
 - Drive user satisfaction and adoption
 

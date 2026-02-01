@@ -43,8 +43,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
 - **Scrum Master**: Facilitates sprint planning and ensures proper story sizing
-- **UX Designer**: Confirms design assets are ready for implementation
-- **DevOps Engineer**: Validates infrastructure readiness for planned features
+- **UX Designer**: Confirms design assets are ready for implementation (validate before sprint commitment)
+- **DevOps Engineer**: Validates infrastructure readiness for planned features (validate before sprint commitment)
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
