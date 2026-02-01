@@ -5,8 +5,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
+  - **Scrum Master**: Facilitates standup and tracks impediments
 - Weekly delivery sync — show progress, updates, and flagged risks
+  - **Business Analyst**: Validates that deliverables meet requirements
+  - **UX Designer**: Reviews implemented features against design specs
 - Demo/Review at the end of each sprint or milestone
+  - **UX Designer**: Provides feedback on user experience
+  - **Technical Writer**: Reviews user-facing changes for documentation needs
+  - **Security Lead**: Participates in security-relevant feature demos
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -21,7 +27,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
+  - **Security Lead**: Reviews scan results and triages vulnerabilities
 - Manual QA for feature acceptance when needed
+  - **UX Designer**: Validates user flows and accessibility
+  - **Business Analyst**: Confirms acceptance criteria are met
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +47,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] **Design reviews** scheduled with UX Designer for user-facing features
+- [ ] **Security reviews** completed by Security Lead for security-sensitive changes
+- [ ] **Documentation updates** tracked and assigned to Technical Writer
+- [ ] **DevOps readiness** confirmed for features requiring infrastructure changes
