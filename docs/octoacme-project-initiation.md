@@ -16,8 +16,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (including security considerations)
 - Resource needs (team roles, rough effort estimate)
+- Initial UX and technical documentation requirements
 
 ## Project One-pager Template
 - Project name:
@@ -32,6 +33,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Security review initiated if handling sensitive data or infrastructure
+- [ ] UX research needs identified (if applicable)
+- [ ] Documentation requirements scoped with Technical Writer
+- [ ] DevOps and infrastructure needs assessed
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
