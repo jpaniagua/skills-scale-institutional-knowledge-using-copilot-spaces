@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Conduct UX design sessions (if applicable)
+8. Document requirements with Business Analyst support
+9. Initial security threat modeling (if handling sensitive data)
+10. Plan documentation deliverables with Technical Writer
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +45,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX designs reviewed and approved (if applicable)
+- [ ] Security requirements identified and documented
+- [ ] Documentation plan created with Technical Writer
+- [ ] DevOps and infrastructure requirements defined
+- [ ] Business requirements validated by Business Analyst
